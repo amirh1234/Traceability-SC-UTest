@@ -1,0 +1,12 @@
+c:\users\laptop\documents\visual studio 2015\Projects\Bag of Words\Bag of Words\bin\Debug\Bag of Words.exe.config
+c:\users\laptop\documents\visual studio 2015\Projects\Bag of Words\Bag of Words\bin\Debug\Bag of Words.exe
+c:\users\laptop\documents\visual studio 2015\Projects\Bag of Words\Bag of Words\bin\Debug\Bag of Words.pdb
+c:\users\laptop\documents\visual studio 2015\Projects\Bag of Words\Bag of Words\obj\Debug\Bag of Words.csprojResolveAssemblyReference.cache
+c:\users\laptop\documents\visual studio 2015\Projects\Bag of Words\Bag of Words\obj\Debug\Bag_of_Words.Form1.resources
+c:\users\laptop\documents\visual studio 2015\Projects\Bag of Words\Bag of Words\obj\Debug\Bag_of_Words.Properties.Resources.resources
+c:\users\laptop\documents\visual studio 2015\Projects\Bag of Words\Bag of Words\obj\Debug\Bag of Words.csproj.GenerateResource.Cache
+c:\users\laptop\documents\visual studio 2015\Projects\Bag of Words\Bag of Words\obj\Debug\Bag of Words.exe
+c:\users\laptop\documents\visual studio 2015\Projects\Bag of Words\Bag of Words\obj\Debug\Bag of Words.pdb
+C:\Users\Amir Hossein Arshia\Dropbox\A & A\Paper #3 - Calls with Dr. Moosavi\Phase I - Bag of Words\Bag of Words\Bag of Words\Bag of Words\bin\Debug\Bag of Words.exe.config
+C:\Users\Amir Hossein Arshia\Dropbox\A & A\Paper #3 - Calls with Dr. Moosavi\Phase I - Bag of Words\Bag of Words\Bag of Words\Bag of Words\obj\Debug\Bag of Words.exe
+C:\Users\Amir Hossein Arshia\Dropbox\A & A\Paper #3 - Calls with Dr. Moosavi\Phase I - Bag of Words\Bag of Words\Bag of Words\Bag of Words\obj\Debug\Bag of Words.pdb
